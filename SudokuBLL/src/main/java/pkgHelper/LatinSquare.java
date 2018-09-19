@@ -3,6 +3,7 @@ package pkgHelper;
 import java.util.Arrays;
 
 public class LatinSquare {
+	// hi
 
 	/**
 	 * LatinSquare - two dimensional array that's the core of the puzzle
